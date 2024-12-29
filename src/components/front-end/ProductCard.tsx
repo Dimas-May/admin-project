@@ -48,7 +48,7 @@ const ProductCard = ({ id, img, category, title, price }: propsType) => {
           <AiFillStar />
           <AiFillStar />
           <AiOutlineStar />
-          <p className="text-gray-600 text-[14px] ml-2">(3 review)</p>
+          <p className="text-gray-600 text-[14px] ml-2">(100 review)</p>
         </div>
 
         <div className="flex justify-between items-center mt-4">
