@@ -68,7 +68,7 @@ const ProductRow = ({
           src={product.imgSrc}
           width={40}
           height={40}
-          alt="product_image"
+          alt="Product_image"
         />
       </td>
       <td>
